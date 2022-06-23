@@ -11,7 +11,8 @@ class SkillsSectionWidget extends StatelessWidget {
       Qualification('Flutter/Dart', 70),
       Qualification('.NET', 85),
       Qualification('C#', 85),
-      Qualification('Swift', 30)
+      Qualification('Swift', 30),
+      Qualification('Java', 75)
     ];
 
     List<charts.Series<Qualification, String>> series = [
